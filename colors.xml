@@ -1,0 +1,11 @@
+<resources>
+    <color name="bg">#05080D</color>
+    <color name="panel">#0B1119</color>
+    <color name="panel2">#101923</color>
+    <color name="cyan">#55E7FF</color>
+    <color name="cyan2">#1AA4C8</color>
+    <color name="text">#EAFBFF</color>
+    <color name="muted">#7D9AA6</color>
+    <color name="userBubble">#123246</color>
+    <color name="jarvisBubble">#0D1720</color>
+</resources>
